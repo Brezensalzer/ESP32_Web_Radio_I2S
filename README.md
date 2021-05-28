@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="ESP32_Web_Radio_I2S/raw/master/philco_45c/IMG_2015.JPG" width="800"/>
-</p>
+![IMG_2015](https://user-images.githubusercontent.com/39413863/119959266-228ade00-bfa4-11eb-8c17-7271fb7b3ca5.JPG)
 
 As an evolution of my <a href="https://github.com/Brezensalzer/ESP32_Web_Radio">first art deco web radio project</a>, I have used a short cut for audio output. 
 Instead of an mp3 board and an analogue amplifier, an I2S MAX98357 module is used. While only mono, a much better speaker is installed.
@@ -22,10 +20,8 @@ Build:
 * The enclosure is made out of MDF, thin birch plywood, walnut and maple veneer.
 * All parts were milled on my Sainsmart CNC 3018 PROVER
 * For the finish I used shellac
-* Th knobs and the 
+* Th knobs and the bezel are 3D printed
 
-<p align="center">
-  <img src="ESP32_Web_Radio_I2S/raw/master/philco_45c/IMG_1975.JPG" width="800"/>
-  <img src="ESP32_Web_Radio_I2S/raw/master/philco_45c/IMG_1976.JPG" width="800"/>
-  <img src="ESP32_Web_Radio_I2S/raw/master/philco_45c/IMG_2013.JPG" width="800"/>
-</p>
+![IMG_1975](https://user-images.githubusercontent.com/39413863/119959338-36364480-bfa4-11eb-9f72-9496f4d6086c.JPG)
+![IMG_1976](https://user-images.githubusercontent.com/39413863/119959346-38989e80-bfa4-11eb-9a1b-dacd6695add7.JPG)
+![IMG_2013](https://user-images.githubusercontent.com/39413863/119959361-3afaf880-bfa4-11eb-8eb8-902befb27de1.JPG)
