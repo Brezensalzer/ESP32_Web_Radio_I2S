@@ -13,7 +13,7 @@ Hardware:
 
 3D Drawings:
 * FreeCAD, stl and gcode files for 3D printer and CNC mill.
-* Youtube Video: https://youtu.be/
+* Youtube Video: https://youtu.be/6EEB7OiYMUE
 
 Build:
 * The design of the enclosure is based on the <a href="https://philcoradio.com/gallery2/1935a/#Model_45C">Philco 45C</a> radio from 1935
