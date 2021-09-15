@@ -222,7 +222,7 @@ Audio audio;
   {
     char rc[4];
     int httpCode;  
-    char url[100];
+    char url[250];
     const char* headerNames[] = { "Location" };
     String Location;
     int pos;
@@ -252,15 +252,7 @@ Audio audio;
       if(DEBUG) { Serial.println("following redirect"); }
       UDP_LOG_INFO("following redirect");
       Location = http.header("Location");
-      pos = Location.indexOf('?');
-      if (pos == -1)
-      {
-        Location.toCharArray(url, Location.length()+1);
-      }
-      else
-      {
-        Location.toCharArray(url, pos+1);
-      }
+      Location.toCharArray(url, Location.length()+1);
       if(DEBUG) { Serial.println(url); }
       UDP_LOG_INFO(url);
     }
